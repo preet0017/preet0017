@@ -121,56 +121,21 @@ Open Source               [##########----------]  50%
 
 ---
 
-# 🚧 Current Projects
+## 🚧 Currently Working On
 
 ```text
-[ACTIVE]    Kitsta          — Nutrition & Fitness Platform
-[ACTIVE]    HRMS            — Human Resource Management System
-[ACTIVE]    Career Hub      — Career Development Platform
-[LEARNING]  Docker
-[LEARNING]  Redis
-[LEARNING]  CI/CD
-[LEARNING]  System Design
+[ACTIVE]    Kitsta                     — Nutrition & fitness platform development (July 2026)
+[ACTIVE]    HRMS                       — Enterprise HR & workforce management system (August 2026)
+[ACTIVE]    Open Source Learning       — Exploring real-world development workflows
+[ACTIVE]    AI / ML Projects
+
+[LEARNING]  Docker & Containerization
+[LEARNING]  CI/CD Pipelines
+[LEARNING]  System Design & Scalability
+[LEARNING]  Cloud Infrastructure
+[LEARNING]  Blockchain, Web-3 Fundamanetals 
+
 ```
-
----
-
-# 📌 Featured Projects
-
-### 🥗 Kitsta
-
-A nutrition-focused platform helping users track food, calories, macros, and fitness goals.
-
-**Tech Stack**
-
-* React
-* Node.js
-* PostgreSQL
-* Firebase
-
----
-
-### 🏢 HRMS
-
-Human Resource Management System with employee management, attendance tracking, and administrative workflows.
-
-**Tech Stack**
-
-* React
-* Django
-* PostgreSQL
-
----
-
-### 🎯 Career Hub
-
-A platform focused on helping students discover opportunities, connect with mentors, and build career-ready skills.
-
-**Tech Stack**
-
-* React
-* Node.js
-* PostgreSQL
 
 ---
 
@@ -233,7 +198,6 @@ and system design thinking.
 # 🚀 2026 Goals
 
 * Build production-grade SaaS products
-* Master MERN Stack
 * Strengthen Django & DRF expertise
 * Learn Docker & CI/CD pipelines
 * Improve system design knowledge
