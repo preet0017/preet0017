@@ -21,8 +21,8 @@
 ██████╔╝ ██║  ██║ ██║ ╚████║ ███████║ ██║  ██║ ███████╗
 ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚══════╝ ╚═╝  ╚═╝ ╚══════╝
 
-Full-Stack Developer • Startup Builder
-Product-Focused Engineer • Tech Enthusiast
+• Full-Stack Developer • Startup Builder
+• Product-Focused Engineer • Tech Enthusiast
 
 "Building products that solve real-world problems
  through code, innovation, and great user experiences."
