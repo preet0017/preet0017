@@ -108,124 +108,76 @@ Open to internships, collaborations, freelance opportunities, and innovative pro
 
 # 🎯 Areas of Focus
 
-> *Rather than self-judged percentages, here are the areas where I focus my engineering efforts.*
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%">
 
-### 🚀 Full-Stack Development
-
-Building responsive, scalable web applications.
-
-**Tech**
-
+<b>🚀 Full-Stack Development</b><br>
 React • Tailwind CSS • Node.js • Django
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-### 🧠 Backend Engineering
-
-Designing secure APIs and business logic.
-
-**Tech**
-
+<b>🧠 Backend Engineering</b><br>
 Django REST Framework • Express.js • REST APIs
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-### ☁️ Cloud & Deployment
-
-Deploying and managing modern applications.
-
-**Tech**
-
+<b>☁️ Cloud & Deployment</b><br>
 Vercel • Firebase Hosting • Supabase
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td>
 
-### 🗄️ Database Engineering
-
-Building reliable and efficient data layers.
-
-**Tech**
-
+<b>🗄️ Database Engineering</b><br>
 PostgreSQL • MongoDB • Firebase
 
 </td>
 
-<td valign="top">
+<td>
 
-### 🤖 AI & Machine Learning
-
-Exploring intelligent software and automation.
-
-**Focus**
-
+<b>🤖 AI & Machine Learning</b><br>
 Computer Vision • NLP • AI Integration
 
 </td>
 
-<td valign="top">
+<td>
 
-### 🏗️ System Design
-
-Learning scalable software architecture.
-
-**Focus**
-
+<b>🏗️ System Design</b><br>
 Scalability • Authentication • API Design
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td>
 
-### 📦 DevOps & Tools
-
-Improving development workflow.
-
-**Tools**
-
+<b>📦 DevOps & Tools</b><br>
 Git • Docker • Postman • GitHub
 
 </td>
 
-<td valign="top">
+<td>
 
-### 🌱 Currently Learning
-
-Continuously improving every day.
-
-**Learning**
-
+<b>🌱 Currently Learning</b><br>
 Docker • Redis • CI/CD • Web3
 
 </td>
 
-<td valign="top">
+<td>
 
-### 🚀 Startup & Products
-
-Building products with real-world impact.
-
-**Projects**
-
+<b>🚀 Startup & Products</b><br>
 Kitsta • HRMS • Career Hub
 
 </td>
 </tr>
 </table>
-
 ---
 
 # 📈 GitHub Statistics
