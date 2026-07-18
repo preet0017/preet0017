@@ -108,34 +108,123 @@ Open to internships, collaborations, freelance opportunities, and innovative pro
 
 # 🎯 Areas of Focus
 
-```text
-Frontend Development      [##################--]  90%
-Backend Development       [#################---]  85%
-Database Engineering      [#################---]  85%
-API Development           [#################---]  85%
-System Design             [#############-------]  65%
-Cloud & Deployment        [############--------]  60%
-AI Integration            [###########---------]  55%
-Open Source               [##########----------]  50%
-```
+> *Rather than self-judged percentages, here are the areas where I focus my engineering efforts.*
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🚧 Currently Working On
+### 🚀 Full-Stack Development
 
-```text
-[ACTIVE]    Kitsta                     — Nutrition & fitness platform development (July 2026)
-[ACTIVE]    HRMS                       — Enterprise HR & workforce management system (August 2026)
-[ACTIVE]    Open Source Learning       — Exploring real-world development workflows
-[ACTIVE]    AI / ML Projects
+Building responsive, scalable web applications.
 
-[LEARNING]  Docker & Containerization
-[LEARNING]  CI/CD Pipelines
-[LEARNING]  System Design & Scalability
-[LEARNING]  Cloud Infrastructure
-[LEARNING]  Blockchain, Web-3 Fundamanetals 
+**Tech**
 
-```
+React • Tailwind CSS • Node.js • Django
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Backend Engineering
+
+Designing secure APIs and business logic.
+
+**Tech**
+
+Django REST Framework • Express.js • REST APIs
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ Cloud & Deployment
+
+Deploying and managing modern applications.
+
+**Tech**
+
+Vercel • Firebase Hosting • Supabase
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🗄️ Database Engineering
+
+Building reliable and efficient data layers.
+
+**Tech**
+
+PostgreSQL • MongoDB • Firebase
+
+</td>
+
+<td valign="top">
+
+### 🤖 AI & Machine Learning
+
+Exploring intelligent software and automation.
+
+**Focus**
+
+Computer Vision • NLP • AI Integration
+
+</td>
+
+<td valign="top">
+
+### 🏗️ System Design
+
+Learning scalable software architecture.
+
+**Focus**
+
+Scalability • Authentication • API Design
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 📦 DevOps & Tools
+
+Improving development workflow.
+
+**Tools**
+
+Git • Docker • Postman • GitHub
+
+</td>
+
+<td valign="top">
+
+### 🌱 Currently Learning
+
+Continuously improving every day.
+
+**Learning**
+
+Docker • Redis • CI/CD • Web3
+
+</td>
+
+<td valign="top">
+
+### 🚀 Startup & Products
+
+Building products with real-world impact.
+
+**Projects**
+
+Kitsta • HRMS • Career Hub
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -195,21 +284,9 @@ and system design thinking.
 
 ---
 
-# 🚀 2026 Goals
-
-* Build production-grade SaaS products
-* Strengthen Django & DRF expertise
-* Learn Docker & CI/CD pipelines
-* Improve system design knowledge
-* Explore AI-powered applications
-* Contribute to open source projects
-
----
-
 ```text
 Building products that solve real problems.
 Learning every day.
 Shipping continuously.
 ```
 
-⭐ If you like my work, consider following my journey.
