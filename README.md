@@ -218,6 +218,24 @@ Kitsta • HRMS • Career Hub
 
 </div>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/preet0017/preet0017/main/github-jet.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/preet0017/preet0017/main/github-jet.svg"
+    />
+    <img
+      alt="GitHub Jet Heatmap"
+      src="https://raw.githubusercontent.com/preet0017/preet0017/main/github-jet.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
 ---
 
 # 🧠 Developer Philosophy
