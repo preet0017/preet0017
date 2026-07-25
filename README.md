@@ -200,7 +200,7 @@ Kitsta • HRMS • Career Hub
 
 ---
 
-# 🚀 Jet Animation 
+# 📊 Contribution Activity
 
 <div align="center">
 
@@ -210,7 +210,7 @@ Kitsta • HRMS • Career Hub
 
 ---
 
-# 🐍 Contribution Snake
+# 🚀 Jet Animation 
 
 <p align="center">
   <picture>
